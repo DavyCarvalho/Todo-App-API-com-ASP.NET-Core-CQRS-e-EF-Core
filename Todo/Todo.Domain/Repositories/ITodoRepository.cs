@@ -1,3 +1,5 @@
+using System;
+using System.Collections.Generic;
 using Todo.Domain.Entities;
 
 namespace Todo.Domain.Repositories
